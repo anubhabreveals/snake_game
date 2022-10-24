@@ -140,7 +140,7 @@ while True:
 
 
         # Shorten the delay
-        delay -= 0.005
+        delay -= 0.002
         # Increase the score
         score += 10
 
